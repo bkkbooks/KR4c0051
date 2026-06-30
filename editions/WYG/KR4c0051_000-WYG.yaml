@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4c0051/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 劉夢得文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 08:17:41.191299'
+  source:
+    repository: kanripo
+    path: KR4c0051/KR4c0051_000.txt
+hash: sha256:8aa4549614365bb7a12c04b17a4b4ac78265c4851e9dce0ab1a61df97701d4b6
