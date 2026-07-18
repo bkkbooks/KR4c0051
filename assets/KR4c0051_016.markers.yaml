@@ -14,6 +14,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR4c0051_SBCK_016-1a02}
   - {type: indent, offset: 0, content: 　　, id: KR4c0051_krp_016-bkkind1}
   - {type: punctuation, offset: 1, content: (, id: KR4c0051_krp_016-bkkpn1}
+  - {type: voice, offset: 1, length: 9, name: note, id: n1}
   - {type: variant, offset: 9, length: 0, content: '', WYG: 修凡十首讓同平章事表臣某言髙品呉千金至奉制加臣銀青光禄大夫同中書門下平章事兼徐泗濠等州節度觀察處置等使餘如故者初受恩榮若登霄漢退思塵忝如履春氷臣誠惶誠恐頓首頓首臣聞以徳詔官以勞定賞茍或虛授人無勸心臣自守方隅累更時嵗荷唐虞宣力之寄乏齊魯報政之能愧無可稱以荅髙位豈意聖慈𢎞奬天澤薦加以燮賛之崇名被庸虛之陋質懼速官謗有玷大猷伏以宰相之職安危是注其在當否繫于慘舒惟以材陞例無平進舉不失徳則副蒼生之心茍非其人或致外夷之哂臣雖愚昧嘗覽前言豈敢冒榮遂安竊位輒思事理冀盡芻蕘若以汴河要津漕運所切徐方俶擾師旅未寧謹當上稟叡謀下貞戎律克期而進屈指可平勵衆之先是臣之志既行其事必在正名所加節制安敢飾讓至於銀青貴服金鉉重名勲績無聞豈宜濫及伏乞賜寑前命俯亮愚衷㣲臣遂知止之宜聖朝無不稱之服名器斯慎退讓有聞遐邇聆風孰不知勸其新授官告謹重封進無任懇禱屏營之至謝平章事表臣某言伏䝉奬拔超踐鈞衡慮玷大猷昧死陳讓再奉嚴㫖不令固辭恩厚命輕位髙責重中謝臣聞天下安危注意將相處論道具瞻之地當總戎}
   - {type: page-break, offset: 9, content: '', id: KR4c0051_WYG_011-1b, image: WYG1077/WYG1077-0395b.png}
   - {type: page-break, offset: 9, content: '', id: KR4c0051_WYG_011-2a, image: WYG1077/WYG1077-0396a.png}
@@ -94,6 +95,7 @@ markers:
   - {type: line-break, offset: 125, content: '', id: KR4c0051_SBCK_016-1b02}
   - {type: punctuation, offset: 139, content: (, id: KR4c0051_krp_016-bkkpn3}
   - {type: variant, offset: 139, length: 1, content: 中, WYG: 云}
+  - {type: voice, offset: 139, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 140, content: /, id: KR4c0051_krp_016-bkkpn4}
   - {type: variant, offset: 140, length: 1, content: 謝, WYG: 云}
   - {type: punctuation, offset: 141, content: ), id: KR4c0051_krp_016-bkkpn5}
@@ -189,6 +191,7 @@ markers:
   - {type: page-break, offset: 366, content: '', id: KR4c0051_WYG_012-2b, image: WYG1077/WYG1077-0400b.png}
   - {type: punctuation, offset: 370, content: (, id: KR4c0051_krp_016-bkkpn6}
   - {type: variant, offset: 370, length: 2, content: 二首, WYG: 表}
+  - {type: voice, offset: 370, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 372, content: ), id: KR4c0051_krp_016-bkkpn7}
   - {type: 'kr:newline', offset: 372, content: '
 
@@ -216,6 +219,7 @@ markers:
   - {type: line-break, offset: 426, content: '', id: KR4c0051_SBCK_016-2b01}
   - {type: punctuation, offset: 430, content: (, id: KR4c0051_krp_016-bkkpn8}
   - {type: variant, offset: 430, length: 2, content: 中謝, WYG: ''}
+  - {type: voice, offset: 430, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 431, content: /, id: KR4c0051_krp_016-bkkpn9}
   - {type: punctuation, offset: 432, content: ), id: KR4c0051_krp_016-bkkpn10}
   - {type: variant, offset: 443, length: 1, content: 效, WYG: 効}
@@ -278,6 +282,7 @@ markers:
   - {type: variant, offset: 581, length: 10, content: 之命遥馳捧日之心中謝, WYG: 書恭承叡㫖道存致用義在隨時云云}
   - {type: substitution, offset: 583, original: 遥, replacement: 遙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20748}}
   - {type: punctuation, offset: 589, content: (, id: KR4c0051_krp_016-bkkpn11}
+  - {type: voice, offset: 589, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 590, content: /, id: KR4c0051_krp_016-bkkpn12}
   - {type: punctuation, offset: 591, content: ), id: KR4c0051_krp_016-bkkpn13}
   - {type: 'kr:newline', offset: 592, content: '
@@ -344,6 +349,7 @@ markers:
       ', id: KR4c0051_krp_016-bkkkrnewl53}
   - {type: line-break, offset: 744, content: '', id: KR4c0051_SBCK_016-3a10}
   - {type: punctuation, offset: 751, content: (, id: KR4c0051_krp_016-bkkpn14}
+  - {type: voice, offset: 751, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 752, content: /, id: KR4c0051_krp_016-bkkpn15}
   - {type: punctuation, offset: 753, content: ), id: KR4c0051_krp_016-bkkpn16}
   - {type: 'kr:newline', offset: 764, content: '
@@ -392,6 +398,7 @@ markers:
   - {type: line-break, offset: 872, content: '', id: KR4c0051_SBCK_016-3b08}
   - {type: punctuation, offset: 883, content: (, id: KR4c0051_krp_016-bkkpn17}
   - {type: variant, offset: 883, length: 1, content: 中, WYG: 云}
+  - {type: voice, offset: 883, length: 2, name: note, id: n7}
   - {type: punctuation, offset: 884, content: /, id: KR4c0051_krp_016-bkkpn18}
   - {type: variant, offset: 884, length: 1, content: 謝, WYG: 云}
   - {type: punctuation, offset: 885, content: ), id: KR4c0051_krp_016-bkkpn19}
@@ -519,6 +526,7 @@ markers:
       ', id: KR4c0051_krp_016-bkkkrnewl84}
   - {type: line-break, offset: 1206, content: '', id: KR4c0051_SBCK_016-4b08}
   - {type: punctuation, offset: 1221, content: (, id: KR4c0051_krp_016-bkkpn20}
+  - {type: voice, offset: 1221, length: 2, name: note, id: n8}
   - {type: punctuation, offset: 1222, content: /, id: KR4c0051_krp_016-bkkpn21}
   - {type: punctuation, offset: 1223, content: ), id: KR4c0051_krp_016-bkkpn22}
   - {type: 'kr:newline', offset: 1226, content: '
@@ -585,6 +593,7 @@ markers:
   - {type: variant, offset: 1418, length: 1, content: 禆, WYG: 裨}
   - {type: punctuation, offset: 1420, content: (, id: KR4c0051_krp_016-bkkpn23}
   - {type: variant, offset: 1420, length: 2, content: 中謝, WYG: ''}
+  - {type: voice, offset: 1420, length: 2, name: note, id: n9}
   - {type: punctuation, offset: 1421, content: /, id: KR4c0051_krp_016-bkkpn24}
   - {type: punctuation, offset: 1422, content: ), id: KR4c0051_krp_016-bkkpn25}
   - {type: 'kr:newline', offset: 1429, content: '
@@ -652,6 +661,7 @@ markers:
       ', id: KR4c0051_krp_016-bkkkrnewl110}
   - {type: line-break, offset: 1584, content: '', id: KR4c0051_SBCK_016-6a01}
   - {type: punctuation, offset: 1602, content: (, id: KR4c0051_krp_016-bkkpn26}
+  - {type: voice, offset: 1602, length: 2, name: note, id: n10}
   - {type: punctuation, offset: 1603, content: /, id: KR4c0051_krp_016-bkkpn27}
   - {type: punctuation, offset: 1604, content: ), id: KR4c0051_krp_016-bkkpn28}
   - {type: 'kr:newline', offset: 1604, content: '
@@ -804,6 +814,7 @@ markers:
   - {type: variant, offset: 1978, length: 1, content: 荐, WYG: 薦}
   - {type: punctuation, offset: 1992, content: (, id: KR4c0051_krp_016-bkkpn29}
   - {type: variant, offset: 1992, length: 2, content: 中謝, WYG: ''}
+  - {type: voice, offset: 1992, length: 2, name: note, id: n11}
   - {type: punctuation, offset: 1993, content: /, id: KR4c0051_krp_016-bkkpn30}
   - {type: punctuation, offset: 1994, content: ), id: KR4c0051_krp_016-bkkpn31}
   - {type: 'kr:newline', offset: 1995, content: '
@@ -856,4 +867,4 @@ markers:
 
       ', id: KR4c0051_krp_016-bkkkrnewl145}
   back: []
-hash: sha256:ff141b2762497ce626e2d212e226fa04ac63518be772eefa34c7ae2e8d6d7129
+hash: sha256:cc675fed927cf2ad7c65d7dede5cf7ba50b76786ed2b745f5d8bdfb240f934bd

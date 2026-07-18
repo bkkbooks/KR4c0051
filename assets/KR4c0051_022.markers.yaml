@@ -93,6 +93,7 @@ markers:
   - {type: indent, offset: 118, content: 　　, id: KR4c0051_krp_022-bkkind24}
   - {type: punctuation, offset: 131, content: (, id: KR4c0051_krp_022-bkkpn1}
   - {type: variant, offset: 131, length: 10, content: 貞元十九年九月十七日, WYG: 狀}
+  - {type: voice, offset: 131, length: 10, name: note, id: n1}
   - {type: punctuation, offset: 136, content: /, id: KR4c0051_krp_022-bkkpn2}
   - {type: punctuation, offset: 141, content: ), id: KR4c0051_krp_022-bkkpn3}
   - {type: 'kr:newline', offset: 141, content: '
@@ -163,6 +164,7 @@ markers:
   - {type: indent, offset: 298, content: 　　, id: KR4c0051_krp_022-bkkind25}
   - {type: punctuation, offset: 308, content: (, id: KR4c0051_krp_022-bkkpn4}
   - {type: variant, offset: 308, length: 10, content: 貞元十八年四月十九日, WYG: 狀}
+  - {type: voice, offset: 308, length: 10, name: note, id: n2}
   - {type: punctuation, offset: 313, content: /, id: KR4c0051_krp_022-bkkpn5}
   - {type: punctuation, offset: 318, content: ), id: KR4c0051_krp_022-bkkpn6}
   - {type: 'kr:newline', offset: 318, content: '
@@ -198,6 +200,7 @@ markers:
   - {type: variant, offset: 396, length: 1, content: 代, WYG: 為}
   - {type: punctuation, offset: 406, content: (, id: KR4c0051_krp_022-bkkpn7}
   - {type: variant, offset: 406, length: 10, content: 貞元十九年四月十九日, WYG: 狀}
+  - {type: voice, offset: 406, length: 10, name: note, id: n3}
   - {type: punctuation, offset: 411, content: /, id: KR4c0051_krp_022-bkkpn8}
   - {type: punctuation, offset: 416, content: ), id: KR4c0051_krp_022-bkkpn9}
   - {type: 'kr:newline', offset: 416, content: '
@@ -210,6 +213,7 @@ markers:
   - {type: line-break, offset: 416, content: '', id: KR4c0051_SBCK_022-2b01}
   - {type: punctuation, offset: 421, content: (, id: KR4c0051_krp_022-bkkpn10}
   - {type: variant, offset: 421, length: 2, content: 云云, WYG: ''}
+  - {type: voice, offset: 421, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 422, content: /, id: KR4c0051_krp_022-bkkpn11}
   - {type: punctuation, offset: 423, content: ), id: KR4c0051_krp_022-bkkpn12}
   - {type: variant, offset: 426, length: 1, content: 德, WYG: ''}
@@ -441,6 +445,7 @@ markers:
   - {type: indent, offset: 945, content: 　　, id: KR4c0051_krp_022-bkkind33}
   - {type: punctuation, offset: 952, content: (, id: KR4c0051_krp_022-bkkpn13}
   - {type: variant, offset: 952, length: 0, content: '', WYG: 狀}
+  - {type: voice, offset: 952, length: 11, name: note, id: n5}
   - {type: variant, offset: 955, length: 8, content: 貞元十九年十一月, WYG: ''}
   - {type: punctuation, offset: 958, content: /, id: KR4c0051_krp_022-bkkpn14}
   - {type: punctuation, offset: 963, content: ), id: KR4c0051_krp_022-bkkpn15}
@@ -484,6 +489,7 @@ markers:
   - {type: variant, offset: 1056, length: 1, content: 柳, WYG: 栁使君}
   - {type: punctuation, offset: 1061, content: (, id: KR4c0051_krp_022-bkkpn16}
   - {type: variant, offset: 1061, length: 0, content: '', WYG: 狀}
+  - {type: voice, offset: 1061, length: 14, name: note, id: n6}
   - {type: variant, offset: 1065, length: 10, content: 貞元二十一年四月八日, WYG: ''}
   - {type: punctuation, offset: 1068, content: /, id: KR4c0051_krp_022-bkkpn17}
   - {type: punctuation, offset: 1075, content: ), id: KR4c0051_krp_022-bkkpn18}
@@ -545,6 +551,7 @@ markers:
   - {type: substitution, offset: 1188, original: 姜, replacement: 薑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16998}}
   - {type: punctuation, offset: 1194, content: (, id: KR4c0051_krp_022-bkkpn19}
   - {type: variant, offset: 1194, length: 0, content: '', WYG: 狀}
+  - {type: voice, offset: 1194, length: 15, name: note, id: n7}
   - {type: variant, offset: 1198, length: 1, content: 郎, WYG: ''}
   - {type: variant, offset: 1200, length: 9, content: 大和元年八月十四日, WYG: ''}
   - {type: punctuation, offset: 1202, content: /, id: KR4c0051_krp_022-bkkpn20}
@@ -598,6 +605,7 @@ markers:
   - {type: punctuation, offset: 1346, content: (, id: KR4c0051_krp_022-bkkpn22}
   - {type: variant, offset: 1346, length: 2, content: 云云, WYG: 太和元年六月十四日}
   - {type: page-break, offset: 1346, content: '', id: KR4c0051_WYG_017-5b, image: WYG1077/WYG1077-0426b.png}
+  - {type: voice, offset: 1346, length: 2, name: note, id: n8}
   - {type: punctuation, offset: 1348, content: ), id: KR4c0051_krp_022-bkkpn23}
   - {type: 'kr:newline', offset: 1348, content: '
 
@@ -606,6 +614,7 @@ markers:
   - {type: indent, offset: 1348, content: 　　, id: KR4c0051_krp_022-bkkind36}
   - {type: punctuation, offset: 1356, content: (, id: KR4c0051_krp_022-bkkpn24}
   - {type: variant, offset: 1356, length: 1, content: 大, WYG: 狀}
+  - {type: voice, offset: 1356, length: 9, name: note, id: n9}
   - {type: variant, offset: 1357, length: 1, content: 和, WYG: 蘇}
   - {type: variant, offset: 1358, length: 1, content: 六, WYG: 州}
   - {type: variant, offset: 1359, length: 1, content: 年, WYG: 狀}
@@ -689,6 +698,7 @@ markers:
   - {type: variant, offset: 1529, length: 0, content: '', WYG: 太和六年十二月九日}
   - {type: punctuation, offset: 1536, content: (, id: KR4c0051_krp_022-bkkpn27}
   - {type: variant, offset: 1536, length: 0, content: '', WYG: 狀朝議}
+  - {type: voice, offset: 1536, length: 9, name: note, id: n10}
   - {type: variant, offset: 1537, length: 8, content: 和六年十二月七日, WYG: 夫使持節蘇州諸軍事守蘇州刺史上柱國劉某}
   - {type: punctuation, offset: 1541, content: /, id: KR4c0051_krp_022-bkkpn28}
   - {type: punctuation, offset: 1545, content: ), id: KR4c0051_krp_022-bkkpn29}
@@ -718,6 +728,7 @@ markers:
   - {type: line-break, offset: 1599, content: '', id: KR4c0051_SBCK_022-6a05}
   - {type: punctuation, offset: 1604, content: (, id: KR4c0051_krp_022-bkkpn30}
   - {type: variant, offset: 1604, length: 3, content: 一作經, WYG: ''}
+  - {type: voice, offset: 1604, length: 3, name: note, id: n11}
   - {type: punctuation, offset: 1606, content: /, id: KR4c0051_krp_022-bkkpn31}
   - {type: punctuation, offset: 1607, content: ), id: KR4c0051_krp_022-bkkpn32}
   - {type: variant, offset: 1608, length: 1, content: 浸, WYG: 􅎊}
@@ -790,6 +801,7 @@ markers:
   - {type: variant, offset: 1779, length: 0, content: '', WYG: 太和七年十二月日}
   - {type: punctuation, offset: 1786, content: (, id: KR4c0051_krp_022-bkkpn33}
   - {type: variant, offset: 1786, length: 0, content: '', WYG: 狀朝議}
+  - {type: voice, offset: 1786, length: 4, name: note, id: n12}
   - {type: variant, offset: 1787, length: 3, content: 和八年, WYG: 夫使持節汝州諸軍事守汝州刺史兼御史中丞充本州防禦使上柱國賜紫金魚袋劉某}
   - {type: punctuation, offset: 1790, content: ), id: KR4c0051_krp_022-bkkpn34}
   - {type: 'kr:newline', offset: 1790, content: '
@@ -838,6 +850,7 @@ markers:
   - {type: variant, offset: 1885, length: 1, content: 恭, WYG: 夫}
   - {type: punctuation, offset: 1888, content: (, id: KR4c0051_krp_022-bkkpn35}
   - {type: variant, offset: 1888, length: 4, content: 大和八年, WYG: 狀}
+  - {type: voice, offset: 1888, length: 4, name: note, id: n13}
   - {type: punctuation, offset: 1892, content: ), id: KR4c0051_krp_022-bkkpn36}
   - {type: 'kr:newline', offset: 1892, content: '
 
@@ -892,6 +905,7 @@ markers:
   - {type: page-break, offset: 2009, content: '', id: KR4c0051_WYG_017-8a, image: WYG1077/WYG1077-0427c.png}
   - {type: punctuation, offset: 2013, content: (, id: KR4c0051_krp_022-bkkpn37}
   - {type: variant, offset: 2013, length: 9, content: 大和九年九月十一日, WYG: 狀}
+  - {type: voice, offset: 2013, length: 9, name: note, id: n14}
   - {type: punctuation, offset: 2018, content: /, id: KR4c0051_krp_022-bkkpn38}
   - {type: punctuation, offset: 2022, content: ), id: KR4c0051_krp_022-bkkpn39}
   - {type: 'kr:newline', offset: 2022, content: '
@@ -990,6 +1004,7 @@ markers:
   - {type: indent, offset: 2244, content: 　　, id: KR4c0051_krp_022-bkkind43}
   - {type: variant, offset: 2244, length: 7, content: 上宰相賀德音大, WYG: 太}
   - {type: punctuation, offset: 2250, content: (, id: KR4c0051_krp_022-bkkpn40}
+  - {type: voice, offset: 2250, length: 11, name: note, id: n15}
   - {type: punctuation, offset: 2256, content: /, id: KR4c0051_krp_022-bkkpn41}
   - {type: variant, offset: 2257, length: 3, content: 二十三, WYG: 四}
   - {type: punctuation, offset: 2261, content: ), id: KR4c0051_krp_022-bkkpn42}
@@ -1039,6 +1054,7 @@ markers:
   - {type: variant, offset: 2350, length: 0, content: '', WYG: 拜賀無任抃躍之至太和九年十二月二十三日}
   - {type: punctuation, offset: 2358, content: (, id: KR4c0051_krp_022-bkkpn43}
   - {type: variant, offset: 2358, length: 7, content: 開成元年正月日, WYG: 狀}
+  - {type: voice, offset: 2358, length: 7, name: note, id: n16}
   - {type: punctuation, offset: 2362, content: /, id: KR4c0051_krp_022-bkkpn44}
   - {type: punctuation, offset: 2365, content: ), id: KR4c0051_krp_022-bkkpn45}
   - {type: 'kr:newline', offset: 2365, content: '
@@ -1249,6 +1265,7 @@ markers:
   - {type: variant, offset: 2872, length: 1, content: 汨, WYG: 汩}
   - {type: variant, offset: 2874, length: 4, content: 繻一作羅, WYG: 襦}
   - {type: punctuation, offset: 2875, content: (, id: KR4c0051_krp_022-bkkpn46}
+  - {type: voice, offset: 2875, length: 3, name: note, id: n17}
   - {type: punctuation, offset: 2877, content: /, id: KR4c0051_krp_022-bkkpn47}
   - {type: punctuation, offset: 2878, content: ), id: KR4c0051_krp_022-bkkpn48}
   - {type: variant, offset: 2879, length: 1, content: 閒, WYG: 間}
@@ -1330,4 +1347,4 @@ markers:
 
       ', id: KR4c0051_krp_022-bkkkrnewl211}
   back: []
-hash: sha256:1b903dd85d040fa206e084943f67a7eeae6744119838e6ccd7ca41430fbe5d74
+hash: sha256:0d9661e34ebf5e3937611bcbbbd2f560ca29dec709ccff16bb533e69b6bfc04d
